@@ -1,0 +1,15 @@
+{
+  "name": "compilador",
+  "version": "1.0.0",
+  "description": "Proyecto de compilador tec",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "compilator"
+  ],
+  "author": "Milton Vera",
+  "license": "ISC"
+}
